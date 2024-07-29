@@ -1,0 +1,37 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "2024-07-27",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "at4dx",
+      "versionDescription": "",
+      "dependencies": [
+        
+        {
+          "package": "fflib-apex-mocks@1.0.0-2"
+        },
+        {
+          "package": "fflib-apex-common@1.0.0-1"
+        },
+        {
+          "package": "force-di@1.0.0-1"
+        }
+      ]
+    }
+  ],
+  "name": "sfdc-at4dx",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "at4dx": "0Hoak0000000CsPCAU",
+    "force-di": "0Hoak0000000CqnCAE",
+    "force-di@1.0.0-1": "04tak0000002cafAAA",
+    "fflib-apex-common": "0Hoak0000000CnZCAU",
+    "fflib-apex-common@1.0.0-1":"04tak0000002cCTAAY",
+    "fflib-apex-mocks": "0Hoak0000000ClxCAE",
+    "fflib-apex-mocks@1.0.0-2": "04tak0000002bptAAA"
+  }
+}
