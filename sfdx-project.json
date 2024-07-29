@@ -8,7 +8,6 @@
       "package": "at4dx",
       "versionDescription": "",
       "dependencies": [
-        
         {
           "package": "fflib-apex-mocks@1.0.0-2"
         },
@@ -30,8 +29,9 @@
     "force-di": "0Hoak0000000CqnCAE",
     "force-di@1.0.0-1": "04tak0000002cafAAA",
     "fflib-apex-common": "0Hoak0000000CnZCAU",
-    "fflib-apex-common@1.0.0-1":"04tak0000002cCTAAY",
+    "fflib-apex-common@1.0.0-1": "04tak0000002cCTAAY",
     "fflib-apex-mocks": "0Hoak0000000ClxCAE",
-    "fflib-apex-mocks@1.0.0-2": "04tak0000002bptAAA"
+    "fflib-apex-mocks@1.0.0-2": "04tak0000002bptAAA",
+    "at4dx@1.0.0-1": "04tak0000002dq5AAA"
   }
 }
